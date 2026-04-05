@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://d1innq07364ql"]
+
+[node name="DemoHelloCsArcRaiders" type="Node"]
+
+[node name="NodeHelloCSharp" type="Node" parent="."]
+
+[node name="Node_HelloWorld" type="Node" parent="NodeHelloCSharp"]
+
+[node name="NodeHelloCsArcRaiders" type="Node" parent="."]
